@@ -26,6 +26,7 @@ body{
 }
 .container
 {
+    width: 77%;
 	background-color: grey;
 }
 .text-center{
@@ -41,4 +42,20 @@ h2{
 }
 .navbar-brand{
 font-size: 30px;	
+}
+
+.containe
+{
+	background-color: grey;
+    width: 77%;
+    margin: auto;
+    
+}
+
+.contan
+{
+	background-color: grey;
+    width: 77%;
+    margin: auto;
+    
 }
